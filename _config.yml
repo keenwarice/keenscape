@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: keenscape
+description: "a hopefully cool-looking terminal-style theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
